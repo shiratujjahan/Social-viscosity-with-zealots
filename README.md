@@ -27,7 +27,7 @@ To reproduce the analytical results and figures, you will need:
 
 ### 1. Stability Analysis (Mathematica)
 
-1. Open the appropriate `.nb` notebook in Mathematica.
+1. Download the repository, and open the appropriate `.nb` notebook in Mathematica.
 2. Evaluate all cells sequentially (Evaluation → Evaluate Notebook).
 3. The symbolic stability conditions and analytical thresholds will be derived automatically.
 
